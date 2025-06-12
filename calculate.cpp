@@ -7,4 +7,4 @@ int main() {
     b = 4;
     cout << a + b;
     return 0;
-}
+} 
