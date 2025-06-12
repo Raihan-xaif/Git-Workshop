@@ -6,5 +6,7 @@ int main() {
     a = 4;
     b = 4;
     cout << a + b;
+    int def=a+b
     return 0;
+    
 } 
